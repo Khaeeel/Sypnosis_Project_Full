@@ -1,0 +1,1 @@
+/home/citai/Documents/SYPNOSIS_ENGINE_1/.venv/bin/python: can't open file '/home/citai/Documents/SYPNOSIS_ENGINE_1/core/automation/auto_run.py': [Errno 2] No such file or directory

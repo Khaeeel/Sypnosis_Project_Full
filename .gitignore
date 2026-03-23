@@ -1,0 +1,19 @@
+# Python environment
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Optional: OS files
+.DS_Store
+Thumbs.db
+
+# Project Caches & Databases
+.pytest_cache/
+chroma_storage/
+
+# Auto-Generated Data & Screenshots
+data/raw_screenshots/
+capture_log.txt

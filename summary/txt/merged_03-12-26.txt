@@ -1,0 +1,69 @@
+## OVERVIEW
+The communication log reveals a significant portion of dialogue dedicated to verifying system functionality, specifically noting instances where the console indicated "Target Lost" alongside attempts to capture screenshots using Visual Studio Code. Participants utilized specific test commands such as "test chat" and "Tepo" to validate connectivity within the group environment, with Leonardo Yoro repeatedly posting debug outputs that included Python watcher logs and file path references like ai-MS-7C95:~/Documents/SYPNOSIS_ENGINE_1/watcher. These technical exchanges were interspersed with informal greetings, indicating a hybrid workspace where system verification occurred alongside casual interaction.
+
+Bharon Candelaria initiated discussions about new tasks involving Sir Jun and the creation of an Interface Template using Vlookup, stating "May new task rin tayo kay sir Jun sa mga nabigyan ng Microsoft office 2010 na gagawa tayo ng Interface Template using Vlookup". Ryan Dorona provided updates on the front-end dashboard progress for a system template that currently displays errors in the users table, noting "same thing parin yung template na binigay na system. may error lang sa pag show ng users table." Dominic Almazan confirmed completion of the Sakura Room on TryHackMe using OSINT techniques and noted that the Vlookup task would be addressed next week alongside other pending items.
+
+Shekinah Tejada and Dominic Almazan exchanged messages regarding purchasing coffee, with Dominic stating "pabili kape" and Shekinah responding "sige wag". Bharon Candelaria explicitly encouraged all members to chat on any topic, including selling items or casual conversation, to test connectivity and identify roles based on office tasks shared during the discussion. This sentiment was reinforced by messages inviting members to share content or trips, with a specific note that outputs would be shared at Monday, alongside recreational links such as CardzMania for playing card games online which were circulated by Ryan Dorona and Bharon Candelaria.
+
+The communication log highlights the involvement of multiple roles including Artificial Intelligence, Web Development, System Administration, Accounting, Computer Engineering, and Project Management as listed in the official structure. Leonardo Yoro noted that documentation for Sir Justine was completed by him and Naithan Balondo, while Bharon Candelaria stated that monitoring would identify roles based on conversation topics about office tasks. However, technical anomalies were present in the log data, such as duplicated messages from Leonardo Yoro containing console terminal ports and debug information that appeared fragmented or corrupted, alongside timestamps showing repeated entries like "10-50PM" which indicated potential OCR noise or system duplication errors within the recording process.
+
+---
+
+## CONVERSATIONAL THREADS (ELABORATE DEEP-DIVE)
+
+### Technical System Verification & Debugging
+This thread focuses on the validation of the SYPNOSIS ENGINE and chat connectivity. Leonardo Yoro posted multiple messages containing raw debug console outputs, including "DEBUG CONSOLE TERMINAL PORTS 4: python (watcher)" and logs indicating "Target Lost. Current: None". The intent behind these posts was to verify the auto capture script functionality within Visual Studio Code.
+*   **Evidence:** "python auto capture.py :24] \" Target Lost. Current: None \""
+*   **Evidence:** "DEBUG CONSOLE TERMINAL PORTS 4: python (watcher) ai-MS-7c95:~/Documents/syPNosIs ENGINE 1/watcher$ python auto capture.py"
+
+### Project Task Coordination & Progress Updates
+Participants discussed specific deliverables including the Microsoft Office 2010 Interface Template and the Vlookup task. Bharon Candelaria announced new tasks for Sir Jun, while Ryan Dorona clarified that the Vlookup task would be addressed next week ("tas yung sa VLookup na task ayon din aatupagin next week"). Dominic Almazan reported on his personal achievement regarding TryHackMe and confirmed the status of the front-end dashboard.
+*   **Evidence:** "May new task rin tayo kay sir Jun sa mga nabigyan ng Microsoft office 2010 na gagawa tayo ng Interface Template using Vlookup"
+*   **Evidence:** "Wednesday pa naman demo."
+
+### Social Connectivity & System Testing Encouragement
+A distinct thread emerged regarding the encouragement of casual interaction to test system limits and member engagement. Bharon Candelaria explicitly requested that members chat on any topic ("chat kayo tommo kahit any po") to ensure all members were active in the output. This included sharing links for card games like CardzMania and coordinating coffee purchases.
+*   **Evidence:** "highly appreciate po if lahat makakapag chat kahit small chat lang para matest din if lahat nung memberisnasasamasaoutputandnakakacateqorizengtamabasesarolenatensa office"
+*   **Evidence:** "pabili kape."
+
+---
+
+## FORENSIC FINDINGS
+
+### Decision Log
+- Agreement to address the Vlookup task next week.
+- Confirmation that documentation for Sir Justine is ready pending polish.
+- Encouragement for all members to chat on any topic to test connectivity.
+
+### Cross-Functional Support
+- AI team (Leonardo Yoro, Naithan Balondo) preparing narrative reports for demonstration.
+- Web Development team (Ryan Dorona, Luis Laguardia) working on the front-end dashboard and users table error resolution.
+- System Administration (Lester Ragel, Dominic Almazan) managing auto capture scripts and Zoom links.
+
+### Technical Keywords
+- SYPNOSIS ENGINE
+- Visual Studio Code
+- python (watcher)
+- auto capture.py
+- TryHackMe
+- Vlookup
+- Microsoft office 2010
+- OSINT techniques
+- Dashboard
+- Users table
+
+---
+
+### UNRECOGNIZED LINGUISTIC DATA
+- **Unknown/Dialect Terms:** mwa, swog, tara bgy, dejoke pre labyu, nairaos, Tepo, alaga, ahas, bardagulan, ipepresent, memberisnasasamasaoutputandnakakacateqorizengtamabasesarolenatensa office.
+- **Contextual Gap:** These terms are informal Filipino digital shorthand (jejemon) or slang not present in the provided PH DIALECT DICTIONARY CONTEXT. "mwa" functions as a greeting/kiss, "swog" indicates agreement or acknowledgement, "Tepo" appears to be a placeholder or typo for "test", and "nairaos" implies an event occurred or was done. "bardagulan" refers to being overwhelmed or crowded. Since the dictionary context is empty, these cannot be mapped to standard definitions and must be flagged as unrecognized data points requiring system updates.
+
+---
+
+## LINKS & RESOURCES
+### 1. Necessary for Workspace
+- https://us06web.zoom.us/j/82611254823?pwd=sj6jKqlAgPLAwqa42esNaDJvrngsa4.1 (Meeting link provided by Dominic Almazan)
+
+### 2. Unnecessary for Workspace
+- https://www.cardzmania.com/games/Blackjack/21664 (Recreational card game link shared by Ryan Dorona and Bharon Candelaria)
+- https://tryhackme.com/room/sakura-room (Personal achievement sharing by Dominic Almazan)

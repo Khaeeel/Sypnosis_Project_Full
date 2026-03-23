@@ -1,0 +1,36 @@
+services:
+  sintosis-engine:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: sintosis-engine1
+    network_mode: host
+    devices:
+      - /dev/kfd:/dev/kfd
+      - /dev/dri:/dev/dri
+    group_add:
+      - "992"
+      - "44"
+    security_opt:
+      - seccomp:unconfined
+    cap_add:
+      - SYS_PTRACE
+    ipc: host
+    environment:
+      - DISPLAY=:0
+      - HSA_OVERRIDE_GFX_VERSION=11.0.0
+      - ROCR_VISIBLE_DEVICES=0
+      - HIP_VISIBLE_DEVICES=0
+      - OLLAMA_HOST=http://localhost:11434
+      - PADDLE_PDX_DISABLE_MODEL_SOURCE_CHECK=True
+    volumes:
+      - ./raw_screenshots:/app/raw_screenshots
+      - ./output:/app/output
+      - ./summary:/app/summary
+      - ./chroma_storage:/app/chroma_storage
+      - ./watcher/roi.txt:/app/watcher/roi.txt:ro
+      - ./master_tasks.json:/app/master_tasks.json
+      - /tmp/.X11-unix:/tmp/.X11-unix:rw
+    restart: unless-stopped
+    stdin_open: true
+    tty: true

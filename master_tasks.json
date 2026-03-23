@@ -1,0 +1,125 @@
+[
+  {
+    "task_id": "TSK-20260303-009",
+    "task_description": "Create Interface Template using Vlookup for Microsoft Office 2010 users",
+    "department": "Artificial Intelligence",
+    "status": "Pending",
+    "date_created": "2026-03-03",
+    "possible_assignees": [
+      "Bharon Candelaria",
+      "Naithan Balondo",
+      "Leonardo Yoro",
+      "Ryan Dorona",
+      "Dominic Almazan"
+    ],
+    "completed_by": null,
+    "notes": "Bharon Candelaria assigned new task for Sir Jun involving Microsoft Office 2010 and Vlookup interface template. Ryan Dorona reported frontend progress with dashboard completion but noted error in users table display. Leonardo Yoro confirmed documentation completed for Sir Justine's demonstration with additional screenshots needed. Task to be addressed next week. Dominic Almazan asked about Vlookup participants. Chat log confirms ongoing work on Office 2010 template and error resolution. Ryan Dorona reported: 'same thing parin yung template na binigay na system. may error lang sa pag show ng users table... will check din tomorrow kung ano ano pa needed para rin matapos na'. Leonardo Yoro noted: 'tas yung sa VLookup na task ayon din aatupagin next week'."
+  },
+  {
+    "task_id": "TSK-20260303-010",
+    "task_description": "Update documentation for Sir Justine's demonstration",
+    "department": "Artificial Intelligence",
+    "status": "Completed",
+    "date_created": "2026-03-01",
+    "possible_assignees": [
+      "Leonardo Yoro",
+      "Naithan Balondo"
+    ],
+    "completed_by": "Leonardo Yoro, Naithan Balondo",
+    "notes": "Leonardo Yoro and Naithan Balondo completed documentation for Sir Justine's demonstration. Additional screenshots added by Naithan. VLookup task to be addressed next week. Leonardo Yoro confirmed documentation done with minor polish needed."
+  },
+  {
+    "task_id": "TSK-20260303-011",
+    "task_description": "Resolve users table display error in frontend",
+    "department": "Artificial Intelligence",
+    "status": "Pending",
+    "date_created": "2026-03-03",
+    "possible_assignees": [
+      "Ryan Dorona",
+      "Dominic Almazan"
+    ],
+    "completed_by": null,
+    "notes": "Ryan Dorona reported error in users table display during frontend development. Task requires fixing display issues in dashboard. Dominic Almaz, Bharon Candelaria, and others discussed Vlookup task progress. Chat confirms error persists ('same thing parin yung template... may error lang sa pag show ng users table'). Will check tomorrow kung anoano pa needed para rin matapos na."
+  },
+  {
+    "task_id": "TSK-20260303-012",
+    "task_description": "Prepare for Wednesday demo with additional screenshots",
+    "department": "Artificial Intelligence",
+    "status": "Pending",
+    "date_created": "2026-03-03",
+    "possible_assignees": [
+      "Naithan Balondo",
+      "Leonardo Yoro"
+    ],
+    "completed_by": null,
+    "notes": "Naithan Balondo and Leonardo Yoro need to add additional screenshots for Wednesday demo. VLookup task to be addressed next week. Chat confirms 'Wednesday pa naman demo kay Naithan may mg screenshots pang idadagdag'. Ryan Dorona confirmed: 'kay Naithan may mg screenshots pang idadagdag'."
+  },
+  {
+    "task_id": "TSK-20260303-013",
+    "task_description": "Verify auto capture functionality on PC",
+    "department": "Artificial Intelligence",
+    "status": "Completed",
+    "date_created": "2026-03-03",
+    "possible_assignees": [
+      "Dominic Almazan"
+    ],
+    "completed_by": "Dominic Almazan",
+    "notes": "Dominic Almazan confirmed auto capture is active on PC. No further action needed. Chat confirms 'naka on po auto capture sa pC chat kayo tommo kahit any po'."
+  },
+  {
+    "task_id": "TSK-20260303-014",
+    "task_description": "Monitor and categorize team members by role",
+    "department": "Project Manager",
+    "status": "Pending",
+    "date_created": "2026-03-03",
+    "possible_assignees": [
+      "Bharon Candelaria",
+      "Shekinah Tejada",
+      "Dominic Almazan"
+    ],
+    "completed_by": null,
+    "notes": "Bharon Candelaria requested monitoring and categorization of team members by role based on chat discussions. Task to be shared on Monday. Chat encourages everyone to makapag chat kahit anong topic just to test it, monitor and identify roles based sa mapag uusapan niyo about task niyo sa office and will share the output atmonday. Bharon Candelaria: 'Literally all roles Ai, WebDev, Sys Ad, Accounting, Comp Eng, PM'."
+  },
+  {
+    "task_id": "TSK-20260303-015",
+    "task_description": "Distribute ballpen supplies to team members",
+    "department": "System Administration and Maintenance",
+    "status": "Pending",
+    "date_created": "2026-03-03",
+    "possible_assignees": [
+      "Dominic Almazan",
+      "John Kevin"
+    ],
+    "completed_by": null,
+    "notes": "Dominic Almazan mentioned ballpen distribution. Task requires distributing ballpens to team members. Chat confirms 'para madala ko'."
+  },
+  {
+    "task_id": "TSK-20260304-001",
+    "task_description": "Identify Vlookup task participants",
+    "department": "Artificial Intelligence",
+    "status": "Pending",
+    "date_created": "2026-03-04",
+    "possible_assignees": [
+      "Dominic Almazan",
+      "Bharon Candelaria",
+      "Naithan Balondo",
+      "Leonardo Yoro",
+      "Ryan Dorona"
+    ],
+    "completed_by": null,
+    "notes": "Dominic Almazan asked who will be involved in Vlookup task. Bharon Candelaria and Ryan Dorona discussed the task progress and error resolution. Leonardo Yoro confirmed documentation status. Chat confirms 'Sino sino mag kasama dun sa Vlookup?'."
+  },
+  {
+    "task_id": "TSK-20260304-002",
+    "task_description": "Complete Sakura Room setup on TryHackMe.com",
+    "department": "Web Development",
+    "status": "Completed",
+    "date_created": "2026-03-04",
+    "possible_assignees": [
+      "Luis Laguardia",
+      "Dominic Almazan"
+    ],
+    "completed_by": "Dominic Almazan",
+    "notes": "Luis Laguardia mentioned Sakura Room tryhackme.com. Dominic Almazan claimed completion of Sakura Room room on TryHackMe. Task is completed."
+  }
+]

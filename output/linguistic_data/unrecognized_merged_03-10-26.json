@@ -1,0 +1,41 @@
+{
+    "source_log": "/home/citai/Documents/SYPNOSIS_ENGINE_1/output/final/merged_03-10-26.json",
+    "detected_at": "2026-03-11T13:46:27.245260",
+    "context_phrases": [
+        "mwa",
+        "nairaos",
+        "swog",
+        "bgy",
+        "dejoke",
+        "labyu",
+        "pre",
+        "fr fr",
+        "t4ma k4h",
+        "Ay0q Bh0xs N4ang Gn500000",
+        "Soos",
+        "tepo",
+        "om link invitation."
+    ],
+    "atomic_word_index": [
+        "mwa",
+        "nairaos",
+        "swog",
+        "bgy",
+        "dejoke",
+        "labyu",
+        "pre",
+        "fr",
+        "t4ma",
+        "k4h",
+        "ay0q",
+        "bh0xs",
+        "n4ang",
+        "gn500000",
+        "soos",
+        "tepo",
+        "om",
+        "link",
+        "invitation"
+    ],
+    "reasoning": "These terms are informal digital shorthand (Jejemon) or OCR noise not present in the provided PH DIALECT DICTIONARY CONTEXT. \"mwa\" and \"nairaos\" function as casual greetings or status updates outside standard English/Tagalog definitions provided. \"swog\" and \"bgy\" appear to be phonetic spellings of Tagalog slang not captured in the dictionary. \"dejoke pre labyu\" is a specific joke reference not defined in the dialect context. \"Ay0q Bh0xs N4ang Gn500000\" represents corrupted text or encryption noise rather than standard linguistic data."
+}

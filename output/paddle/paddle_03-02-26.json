@@ -1,0 +1,29 @@
+[
+  {
+    "sender": "Dominic Almazan",
+    "message": "Sino sino mag kasama dun sa Vlookup?",
+    "timestamp": "7:33PM",
+    "is_reply": false,
+    "reply_to": null,
+    "confidence_score": 0.9963019490242004
+  },
+  {
+    "sender": "Ryan Dorona",
+    "message": "same thing parin yung template na binigay na system may error lang sa pag show ng users table may progress narin sa pag gawa ng front end currently nasa dashboard na will check din eu sodeyew ni eJed papaau ed oue oue buny moanowoy",
+    "timestamp": null,
+    "is_reply": true,
+    "reply_to": {
+      "original_sender": "Bharon Candelaria",
+      "original_message": "@all ano tasks/projects niyo as of now and progress??"
+    },
+    "confidence_score": 0.9581
+  },
+  {
+    "sender": "Bharon Candelaria",
+    "message": "May new task rin tayo kay sir Jun sa mga nabigyan ng Microsoft office 2010 na gagawa tayo ng Interface Template using Vlookup",
+    "timestamp": "8:17 PM",
+    "is_reply": false,
+    "reply_to": null,
+    "confidence_score": 0.997
+  }
+]

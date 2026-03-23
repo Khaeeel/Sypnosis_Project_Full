@@ -1,0 +1,19 @@
+[2026-03-12 09:37:27] ========================================
+[2026-03-12 09:37:27]    DAILY AUTOMATION STARTED
+[2026-03-12 09:37:27]    Target Data: 03-11-26
+[2026-03-12 09:37:27] ========================================
+[2026-03-12 09:37:27] 🚀 Starting paddle_ocr_conf.py...
+[2026-03-12 09:37:27] ⚠️ paddle_ocr_conf.py Failed/Warning:
+/home/citai/Documents/SYPNOSIS_ENGINE_1/.venv/bin/python: can't open file '/home/citai/Documents/SYPNOSIS_ENGINE_1/core/automation/paddle_ocr_conf.py': [Errno 2] No such file or directory
+
+[2026-03-12 09:37:27] 🚀 Starting easy_ocr_conf.py...
+[2026-03-12 09:37:27] ⚠️ easy_ocr_conf.py Failed/Warning:
+/home/citai/Documents/SYPNOSIS_ENGINE_1/.venv/bin/python: can't open file '/home/citai/Documents/SYPNOSIS_ENGINE_1/core/automation/easy_ocr_conf.py': [Errno 2] No such file or directory
+
+[2026-03-12 09:37:27] 🚀 Starting hybrid_merge.py...
+[2026-03-12 09:37:27] ⚠️ hybrid_merge.py Failed/Warning:
+/home/citai/Documents/SYPNOSIS_ENGINE_1/.venv/bin/python: can't open file '/home/citai/Documents/SYPNOSIS_ENGINE_1/core/automation/hybrid_merge.py': [Errno 2] No such file or directory
+
+[2026-03-12 09:37:27] ⛔ Merge failed. Pipeline stopped.
+[2026-03-12 09:37:27] === PIPELINE FINISHED ===
+
